@@ -1,0 +1,19 @@
+{
+  "name": "updatertest",
+  "version": "1.0.0",
+  "description": "updater test app",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Solomon-m/UpdateServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Solomon-m/UpdateServer/issues"
+  },
+  "homepage": "https://github.com/Solomon-m/UpdateServer#readme"
+}
