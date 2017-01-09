@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/Solomon-m/UpdateServer/issues"
   },
-  "homepage": "https://github.com/Solomon-m/UpdateServer#readme"
+  "homepage": "https://github.com/Solomon-m/UpdateServer#readme",
+  "build": {
+    "appId": "updatertest.id",
+    "win": {
+      "buildResources": "/Users/solomon/Documents/Git/UpdateServer/Electron.app/Contents/Resources/app",
+      "output": "/Users/solomon/Documents/Git/Files/setups/windows/",
+      "app": "/Users/solomon/Documents/Git/UpdateServer/Electron.app/Contents/Resources/app"
+    }
+  }
 }
